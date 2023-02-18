@@ -27,7 +27,7 @@
 				</fieldset>
 				<div id="submitBox">
 					<div id="searchPwd">
-						<span>Forgot password</span>
+						<span>Forgot password?</span>
 					</div>
 					<input type="submit" value="Login" id="loginBtn" name="loginBtn" class="btnStyle">
 				</div>
