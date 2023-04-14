@@ -11,7 +11,6 @@
 	<link rel="stylesheet" href="${ pageContext.request.contextPath }/resources/css/index.css"/>
 	<script>
 		console.log("${msg}");
-		console.log("sjieofjfiejef");
 	</script>
 	<c:if test="${not empty msg}">
 	<script>

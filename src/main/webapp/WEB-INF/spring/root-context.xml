@@ -50,5 +50,4 @@
 	
 	<!-- @Transctional 어노테이션이 붙은 메소드 대상으로 Transaction advice 삽입 -->
 	<tx:annotation-driven/>
-	
 </beans>
