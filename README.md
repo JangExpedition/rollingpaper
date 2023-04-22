@@ -8,9 +8,9 @@
 ### 개발환경
 - 운영체제 : macOS
 - IDE : STS
-- 프로그래밍 언어 : Java, Spring, JavaScript, jQuery, HTML5, CSS3
+- 프로그래밍 언어 : Java, Spring, JavaScript, jQuery, HTML5, CSS3, BootStrap
 - 웹 서버 : Tomcat
-- 데이터베이스 : Oracle
+- 데이터베이스 : mariaDB
 
 ### 주요기능
 ---
